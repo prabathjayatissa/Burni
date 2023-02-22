@@ -45,3 +45,5 @@ services:
     container_name: burni-fhir-validator-api
     volumes: 
       - ./validation-files:/app/assets/validationResources
+
+      
